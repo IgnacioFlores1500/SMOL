@@ -1,0 +1,68 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      33
+    ],
+    "SourceCsetId": 34,
+    "DestinationCsetId": 33,
+    "FileConflicts": [
+      {
+        "Path": "/Packages/manifest.json",
+        "ItemId": 127,
+        "ParentItemId": 123,
+        "BaseRevId": 103,
+        "SourceRevId": 3363,
+        "DestinationRevId": 103
+      },
+      {
+        "Path": "/ProjectSettings/InputManager.asset",
+        "ItemId": 134,
+        "ParentItemId": 125,
+        "BaseRevId": 110,
+        "SourceRevId": 3365,
+        "DestinationRevId": 110
+      },
+      {
+        "Path": "/ProjectSettings/ProjectSettings.asset",
+        "ItemId": 138,
+        "ParentItemId": 125,
+        "BaseRevId": 114,
+        "SourceRevId": 3367,
+        "DestinationRevId": 114
+      },
+      {
+        "Path": "/ProjectSettings/ProjectVersion.txt",
+        "ItemId": 139,
+        "ParentItemId": 125,
+        "BaseRevId": 115,
+        "SourceRevId": 3368,
+        "DestinationRevId": 115
+      },
+      {
+        "Path": "/ProjectSettings/UnityConnectSettings.asset",
+        "ItemId": 143,
+        "ParentItemId": 125,
+        "BaseRevId": 2873,
+        "SourceRevId": 3369,
+        "DestinationRevId": 2873
+      },
+      {
+        "Path": "/Assets/Thaleah_PixelFont/Materials/Thaleah_DemoBackground.png.meta",
+        "ItemId": 2663,
+        "ParentItemId": 2648,
+        "BaseRevId": 2637,
+        "SourceRevId": 3362,
+        "DestinationRevId": 2637
+      },
+      {
+        "Path": "/Assets/Scripts/PlayerMovement.cs",
+        "ItemId": 1303,
+        "ParentItemId": 1240,
+        "BaseRevId": 2974,
+        "SourceRevId": 3359,
+        "DestinationRevId": 2974
+      }
+    ]
+  }
+]

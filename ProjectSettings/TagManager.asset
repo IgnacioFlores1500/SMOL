@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - wallForRat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - ForeGround
+  - Colliders
+  - backGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SuperBackGround
+    uniqueID: 2058508997
+    locked: 0
+  - name: BackGround
+    uniqueID: 3520816179
+    locked: 0
+  - name: foreGround
+    uniqueID: 557275887
+    locked: 0
+  - name: Blocks
+    uniqueID: 3602609587
+    locked: 0
+  - name: Foilage
+    uniqueID: 762377445
+    locked: 0
+  - name: Enemys
+    uniqueID: 3963435497
+    locked: 0
+  - name: Players
+    uniqueID: 561311367
+    locked: 0
+  - name: Colliders
+    uniqueID: 4250140519
+    locked: 0
