@@ -46,9 +46,9 @@ public class PlayerMovement : MonoBehaviour
 		float x = Input.GetAxisRaw("Horizontal");
 		animator.SetFloat("Speed",Mathf.Abs(x));
 		if (Mathf.Abs(x) > .5f) {
-			BC2D.offset = new Vector2(.5f,-.5f);
+			//BC2D.offset = new Vector2(.5f,-.5f);
 		} else {
-			BC2D.offset = new Vector2(0f,-.5f);
+			//BC2D.offset = new Vector2(0f,-.5f);
 		}
 //###################################################################################################################################################################################################################################################################################
 		//If the last given movement was negative, it will turn the sprite left, if not, it will return it normal.
